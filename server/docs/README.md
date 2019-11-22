@@ -40,7 +40,7 @@ This is the libvlc which is behind VLC, we can use this to play, control our mus
 - `Instance.media_player.stop()` - stop the media from playing
 
 
-### [YouTubeData](../youtube_videos.py)
+### [YouTubeData](../modules/youtube_videos.py)
 
 This is YouTube's Data API to enable searching videos in YouTube, the following two functions are part of the class `youtube_results`
 
