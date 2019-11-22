@@ -36,7 +36,7 @@ NOTE: For the NWoC participants. If you guys find any issue that is not already 
 
 * Before running the server, get your YouTube API key by following this guide -                https://developers.google.com/youtube/v3/getting-started
 
-* Use your own API key by modifying line 5 in [this](server/youtube_videos.py) file.
+* Use your own API key by modifying line 5 in [this](server/modules/youtube_videos.py) file.
 
 * To run the server , use the command `pipenv run python3 server.py`
 
